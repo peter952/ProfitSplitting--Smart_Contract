@@ -27,13 +27,6 @@
 
 * Contract was created to evenly split profits amonge three partners
 * It automatically deposites the split into pre-authorized addresses
-
-
-
-![](images/unit20-2.PNG)
-
-
-
 * Shows split of 22 ethes deposited into address
 
 
